@@ -35,9 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The funeralles of King Edward the sixt VVherin are declared the causers and causes of his death.Bald
+
+1. ¶William Baldwin to the Reader.
+
 #####Body#####
-The funeralles of King Edward the sixt VVherin are declared the causers and causes of his death.Bald
+
+1. ¶The Funeralles of the most noble and godly Prince Kyng Edward the syxt.
+
+1. ¶ An exhortacion to the repentaunce of sinnes, and amendment of life, vvhich were the cause of the kinges death, & wil be the destruction of the Realme if God be not the more mercifull vnto vs.
+
+1. An Epitaph. ☞The Death playnt or life prayse of the most noble and vertuous Prince, King Edward the syxt.
+
 **Types of content**
 
   * There are 515 **verse** lines!
